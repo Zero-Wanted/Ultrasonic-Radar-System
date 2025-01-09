@@ -12,11 +12,6 @@ A radar system built using an Arduino Uno, an ultrasonic sensor, and a servo mot
 - **Hardware**: Arduino Uno, HC-SR04 Ultrasonic Sensor, SG90 Servo Motor.
 - **Software**: Arduino IDE, Python (for GUI with PyQt).
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Ultrasonic-Radar-System.git
-
 ## Future Enhancements
 - Add object classification using AI.
 - Improve graphical display performance.
