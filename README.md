@@ -18,5 +18,5 @@ A radar system built using an Arduino Uno, an ultrasonic sensor, and a servo mot
    git clone https://github.com/yourusername/Ultrasonic-Radar-System.git
 
 ##Future Enhancements
--Add object classification using AI.
--Improve graphical display performance.
+- Add object classification using AI.
+- Improve graphical display performance.
